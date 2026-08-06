@@ -1,212 +1,86 @@
-[
-  {
+{
     "info": {
-      "date": "2005-06-13",
-      "player_of_match": "SR Tendulkar",
-      "players": {
-        "India": ["SR Tendulkar", "V Kohli", "A Kumble"],
-        "England": ["ME Trescothick", "GO Jones", "A Flintoff"]
-      },
-      "venueId": "1"
+        "date": "2005-06-13",
+        "player_of_match": "SR Tendulkar",
+        "players": {
+            "India": [
+                "SR Tendulkar",
+                "V Kohli",
+                "A Kumble"
+            ],
+            "England": [
+                "ME Trescothick",
+                "GO Jones",
+                "A Flintoff"
+            ]
+        },
+        "venueId": "1"
     },
     "innings": [
-      {
-        "team": "England",
-        "deliveries": [
-          {"batter": "ME Trescothick", "bowler": "A Kumble", "non_striker": "GO Jones", "runs": 0},
-          {"batter": "ME Trescothick", "bowler": "A Kumble", "non_striker": "GO Jones", "runs": 1},
-          {"batter": "GO Jones", "bowler": "A Kumble", "non_striker": "ME Trescothick", "runs": 0},
-          {"batter": "GO Jones", "bowler": "A Kumble", "non_striker": "ME Trescothick", "runs": 2},
-          {"batter": "GO Jones", "bowler": "A Kumble", "non_striker": "ME Trescothick", "runs": 0},
-          {"batter": "GO Jones", "bowler": "A Kumble", "non_striker": "ME Trescothick", "runs": 1}
-        ]
-      },
-      {
-        "team": "India",
-        "deliveries": [
-          {"batter": "SR Tendulkar", "bowler": "A Flintoff", "non_striker": "V Kohli", "runs": 1},
-          {"batter": "V Kohli", "bowler": "A Flintoff", "non_striker": "SR Tendulkar", "runs": 0},
-          {"batter": "V Kohli", "bowler": "A Flintoff", "non_striker": "SR Tendulkar", "runs": 2},
-          {"batter": "V Kohli", "bowler": "A Flintoff", "non_striker": "SR Tendulkar", "runs": 1},
-          {"batter": "SR Tendulkar", "bowler": "A Flintoff", "non_striker": "V Kohli", "runs": 0},
-          {"batter": "SR Tendulkar", "bowler": "A Flintoff", "non_striker": "V Kohli", "runs": 4}
-        ]
-      }
+        {
+            "team": "England",
+            "deliveries": [
+                {
+                    "batter": "ME Trescothick",
+                    "bowler": "A Kumble",
+                    "non_striker": "GO Jones",
+                    "runs": 0
+                },
+                {
+                    "batter": "ME Trescothick",
+                    "bowler": "A Kumble",
+                    "non_striker": "GO Jones",
+                    "runs": 1
+                },
+                {
+                    "batter": "GO Jones",
+                    "bowler": "A Kumble",
+                    "non_striker": "ME Trescothick",
+                    "runs": 0
+                },
+                {
+                    "batter": "GO Jones",
+                    "bowler": "A Kumble",
+                    "non_striker": "ME Trescothick",
+                    "runs": 0
+                },
+                {
+                    "batter": "GO Jones",
+                    "bowler": "A Kumble",
+                    "non_striker": "ME Trescothick",
+                    "runs": 0
+                },
+                {
+                    "batter": "GO Jones",
+                    "bowler": "A Kumble",
+                    "non_striker": "ME Trescothick",
+                    "runs": 1
+                },
+                {
+                    "batter": "GO Jones",
+                    "bowler": "A Kumble",
+                    "non_striker": "ME Trescothick",
+                    "runs": 2
+                }
+            ]
+        },
+        {
+            "team": "India",
+            "deliveries": [
+                {
+                    "batter": "SR Tendulkar",
+                    "bowler": "A Flintoff",
+                    "non_striker": "V Kohli",
+                    "runs": 3
+                },
+                {
+                    "batter": "V Kohli",
+                    "bowler": "A Flintoff",
+                    "non_striker": "GO Jones",
+                    "runs": 4
+                }
+            ]
+        }
+
     ]
-  },
-  {
-    "info": {
-      "date": "2005-06-14",
-      "player_of_match": "R Sharma",
-      "players": {
-        "India": ["R Sharma", "S Iyer", "J Bumrah"],
-        "Australia": ["D Warner", "S Smith", "M Starc"]
-      },
-      "venueId": "2"
-    },
-    "innings": [
-      {
-        "team": "India",
-        "deliveries": [
-          {"batter": "R Sharma", "bowler": "M Starc", "non_striker": "S Iyer", "runs": 4},
-          {"batter": "R Sharma", "bowler": "M Starc", "non_striker": "S Iyer", "runs": 1},
-          {"batter": "S Iyer", "bowler": "M Starc", "non_striker": "R Sharma", "runs": 2},
-          {"batter": "S Iyer", "bowler": "M Starc", "non_striker": "R Sharma", "runs": 0},
-          {"batter": "S Iyer", "bowler": "M Starc", "non_striker": "R Sharma", "runs": 1},
-          {"batter": "R Sharma", "bowler": "M Starc", "non_striker": "S Iyer", "runs": 3}
-        ]
-      },
-      {
-        "team": "Australia",
-        "deliveries": [
-          {"batter": "D Warner", "bowler": "J Bumrah", "non_striker": "S Smith", "runs": 1},
-          {"batter": "S Smith", "bowler": "J Bumrah", "non_striker": "D Warner", "runs": 4},
-          {"batter": "S Smith", "bowler": "J Bumrah", "non_striker": "D Warner", "runs": 0},
-          {"batter": "S Smith", "bowler": "J Bumrah", "non_striker": "D Warner", "runs": 2},
-          {"batter": "S Smith", "bowler": "J Bumrah", "non_striker": "D Warner", "runs": 1},
-          {"batter": "D Warner", "bowler": "J Bumrah", "non_striker": "S Smith", "runs": 1}
-        ]
-      }
-    ]
-  },
-  {
-    "info": {
-      "date": "2005-06-15",
-      "player_of_match": "B Azam",
-      "players": {
-        "India": ["KL Rahul", "H Pandya", "M Shami"],
-        "Pakistan": ["B Azam", "M Rizwan", "S Afridi"]
-      },
-      "venueId": "3"
-    },
-    "innings": [
-      {
-        "team": "Pakistan",
-        "deliveries": [
-          {"batter": "B Azam", "bowler": "M Shami", "non_striker": "M Rizwan", "runs": 2},
-          {"batter": "B Azam", "bowler": "M Shami", "non_striker": "M Rizwan", "runs": 1},
-          {"batter": "M Rizwan", "bowler": "M Shami", "non_striker": "B Azam", "runs": 4},
-          {"batter": "M Rizwan", "bowler": "M Shami", "non_striker": "B Azam", "runs": 0},
-          {"batter": "M Rizwan", "bowler": "M Shami", "non_striker": "B Azam", "runs": 1},
-          {"batter": "B Azam", "bowler": "M Shami", "non_striker": "M Rizwan", "runs": 2}
-        ]
-      },
-      {
-        "team": "India",
-        "deliveries": [
-          {"batter": "KL Rahul", "bowler": "S Afridi", "non_striker": "H Pandya", "runs": 1},
-          {"batter": "H Pandya", "bowler": "S Afridi", "non_striker": "KL Rahul", "runs": 2},
-          {"batter": "H Pandya", "bowler": "S Afridi", "non_striker": "KL Rahul", "runs": 0},
-          {"batter": "H Pandya", "bowler": "S Afridi", "non_striker": "KL Rahul", "runs": 1},
-          {"batter": "KL Rahul", "bowler": "S Afridi", "non_striker": "H Pandya", "runs": 4},
-          {"batter": "KL Rahul", "bowler": "S Afridi", "non_striker": "H Pandya", "runs": 0}
-        ]
-      }
-    ]
-  },
-  {
-    "info": {
-      "date": "2005-06-16",
-      "player_of_match": "Q de Kock",
-      "players": {
-        "India": ["S Gill", "R Pant", "K Yadav"],
-        "South Africa": ["Q de Kock", "A Markram", "K Rabada"]
-      },
-      "venueId": "4"
-    },
-    "innings": [
-      {
-        "team": "India",
-        "deliveries": [
-          {"batter": "S Gill", "bowler": "K Rabada", "non_striker": "R Pant", "runs": 1},
-          {"batter": "R Pant", "bowler": "K Rabada", "non_striker": "S Gill", "runs": 0},
-          {"batter": "R Pant", "bowler": "K Rabada", "non_striker": "S Gill", "runs": 2},
-          {"batter": "R Pant", "bowler": "K Rabada", "non_striker": "S Gill", "runs": 1},
-          {"batter": "S Gill", "bowler": "K Rabada", "non_striker": "R Pant", "runs": 0},
-          {"batter": "S Gill", "bowler": "K Rabada", "non_striker": "R Pant", "runs": 2}
-        ]
-      },
-      {
-        "team": "South Africa",
-        "deliveries": [
-          {"batter": "Q de Kock", "bowler": "K Yadav", "non_striker": "A Markram", "runs": 4},
-          {"batter": "Q de Kock", "bowler": "K Yadav", "non_striker": "A Markram", "runs": 1},
-          {"batter": "A Markram", "bowler": "K Yadav", "non_striker": "Q de Kock", "runs": 1},
-          {"batter": "Q de Kock", "bowler": "K Yadav", "non_striker": "A Markram", "runs": 2},
-          {"batter": "Q de Kock", "bowler": "K Yadav", "non_striker": "A Markram", "runs": 0},
-          {"batter": "Q de Kock", "bowler": "K Yadav", "non_striker": "A Markram", "runs": 1}
-        ]
-      }
-    ]
-  },
-  {
-    "info": {
-      "date": "2005-06-17",
-      "player_of_match": "JC Buttler",
-      "players": {
-        "England": ["JC Buttler", "JE Root", "MA Wood"],
-        "New Zealand": ["KS Williamson", "DP Conway", "TA Boult"]
-      },
-      "venueId": "5"
-    },
-    "innings": [
-      {
-        "team": "New Zealand",
-        "deliveries": [
-          {"batter": "KS Williamson", "bowler": "MA Wood", "non_striker": "DP Conway", "runs": 1},
-          {"batter": "DP Conway", "bowler": "MA Wood", "non_striker": "KS Williamson", "runs": 2},
-          {"batter": "DP Conway", "bowler": "MA Wood", "non_striker": "KS Williamson", "runs": 0},
-          {"batter": "DP Conway", "bowler": "MA Wood", "non_striker": "KS Williamson", "runs": 1},
-          {"batter": "KS Williamson", "bowler": "MA Wood", "non_striker": "DP Conway", "runs": 4},
-          {"batter": "KS Williamson", "bowler": "MA Wood", "non_striker": "DP Conway", "runs": 0}
-        ]
-      },
-      {
-        "team": "England",
-        "deliveries": [
-          {"batter": "JC Buttler", "bowler": "TA Boult", "non_striker": "JE Root", "runs": 4},
-          {"batter": "JC Buttler", "bowler": "TA Boult", "non_striker": "JE Root", "runs": 1},
-          {"batter": "JE Root", "bowler": "TA Boult", "non_striker": "JC Buttler", "runs": 2},
-          {"batter": "JE Root", "bowler": "TA Boult", "non_striker": "JC Buttler", "runs": 1},
-          {"batter": "JC Buttler", "bowler": "TA Boult", "non_striker": "JE Root", "runs": 0},
-          {"batter": "JC Buttler", "bowler": "TA Boult", "non_striker": "JE Root", "runs": 2}
-        ]
-      }
-    ]
-  },
-  {
-    "info": {
-      "date": "2005-06-18",
-      "player_of_match": "G Maxwell",
-      "players": {
-        "England": ["PD Salt", "HC Brook", "AU Rashid"],
-        "Australia": ["TM Head", "G Maxwell", "A Zampa"]
-      },
-      "venueId": "6"
-    },
-    "innings": [
-      {
-        "team": "England",
-        "deliveries": [
-          {"batter": "PD Salt", "bowler": "A Zampa", "non_striker": "HC Brook", "runs": 2},
-          {"batter": "PD Salt", "bowler": "A Zampa", "non_striker": "HC Brook", "runs": 1},
-          {"batter": "HC Brook", "bowler": "A Zampa", "non_striker": "PD Salt", "runs": 4},
-          {"batter": "HC Brook", "bowler": "A Zampa", "non_striker": "PD Salt", "runs": 0},
-          {"batter": "HC Brook", "bowler": "A Zampa", "non_striker": "PD Salt", "runs": 1},
-          {"batter": "PD Salt", "bowler": "A Zampa", "non_striker": "HC Brook", "runs": 1}
-        ]
-      },
-      {
-        "team": "Australia",
-        "deliveries": [
-          {"batter": "TM Head", "bowler": "AU Rashid", "non_striker": "G Maxwell", "runs": 4},
-          {"batter": "TM Head", "bowler": "AU Rashid", "non_striker": "G Maxwell", "runs": 1},
-          {"batter": "G Maxwell", "bowler": "AU Rashid", "non_striker": "TM Head", "runs": 1},
-          {"batter": "TM Head", "bowler": "AU Rashid", "non_striker": "G Maxwell", "runs": 2},
-          {"batter": "TM Head", "bowler": "AU Rashid", "non_striker": "G Maxwell", "runs": 0},
-          {"batter": "TM Head", "bowler": "AU Rashid", "non_striker": "G Maxwell", "runs": 3}
-        ]
-      }
-    ]
-  }
-]
+}
